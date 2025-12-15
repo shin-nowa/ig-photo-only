@@ -1,5 +1,5 @@
 # ig-photo-only
-Script that filters profile posts so it don't show reels.
+Script that filters profile posts so it doesn't show reels.
 <div align = "center">
-    <img href = "./assets/print.png">
+    <img src = "./assets/print.png">
 </div>
